@@ -5,5 +5,5 @@ The student directory script allows you to manage the list of students entolled 
 ## How to Use ##
 
 ```shell
-ruby directory.rb
+ruby student-directory.rb
 ```
