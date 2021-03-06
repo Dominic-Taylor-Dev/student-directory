@@ -1,6 +1,6 @@
 # Student Directory #
 
-The student directory script allows you to manage the list of students entolled at the fictional 'Villains Academy'
+The student directory script allows you to manage the list of students entolled at the fictional 'Villains Academy'.'
 
 ## How to Use ##
 
@@ -11,7 +11,7 @@ Simply save 'directory.rb', navigate to it in the terminal and launch it from th
 There is an ubmrella functionality of having an interactive text-based menu. Within that you can:
 - Input names and cohorts (stored in a hash) - the method also tidies them up be making sure each first letter is capitalised for instance
 - See them listed back out 
-- Save the current list to a .csv file (hard coded as students.csv) to give a degree of permanence to the data
+- Save the current list to a .csv file (hard coded as <code>students.csv</code>) to give a degree of permanence to the data
 - Read back out from that same .csv file
 
 ## Further ideas ##
